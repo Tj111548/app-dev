@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+# My Favorite Movie Series: *The Lord of the Rings*
